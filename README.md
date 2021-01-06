@@ -3,7 +3,7 @@
 ### Step 1: Install Juypter 
 Install Jupyter lab by typing below command to your terminal
 
-        pip install jupyter-lab
+     pip install jupyter-lab
         
 (There are more options [here](https://jupyter.org/install), if you don't have pip)
 
